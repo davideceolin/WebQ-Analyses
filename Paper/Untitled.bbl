@@ -1,0 +1,91 @@
+\begin{thebibliography}{10}
+
+\bibitem{Amento:2000:LMQ:345508.345603}
+B.~Amento, L.~Terveen, and W.~Hill.
+\newblock Does \&ldquo;authority\&rdquo; mean quality? predicting expert
+  quality ratings of web documents.
+\newblock In {\em Proceedings of the 23rd Annual International ACM SIGIR
+  Conference on Research and Development in Information Retrieval}, SIGIR '00,
+  pages 296--303, New York, NY, USA, 2000. ACM.
+
+\bibitem{bharat2016method}
+K.~Bharat, M.~Curtiss, and M.~Schmitt.
+\newblock Method and apparatus for clustering news online content based on
+  content freshness and quality of content source, June~7 2016.
+\newblock US Patent 9,361,369.
+
+\bibitem{jdiq2015}
+D.~Ceolin, P.~Groth, V.~Maccatrozzo, W.~Fokkink, W.~R. van Hage, and
+  A.~Nottamkandath.
+\newblock Combining user reputation and provenance analysis for trust
+  assessment.
+
+\bibitem{Ceolin:2016:TWD:2908131.2908198}
+D.~Ceolin, J.~Noordegraaf, L.~Aroyo, and C.~van Son.
+\newblock Towards web documents quality assessment for digital humanities
+  scholars.
+\newblock In {\em Proceedings of the 8th ACM Conference on Web Science}, WebSci
+  '16, pages 315--317, New York, NY, USA, 2016. ACM.
+
+\bibitem{dejong}
+M.~De~Jong and P.~Schellens.
+\newblock Toward a document evaluation methodology: What does research tell us
+  about the validity and reliability of evaluation methods?
+\newblock 2000.
+
+\bibitem{hartig}
+O.~Hartig and J.~Zhao.
+\newblock Using web data provenance for quality assessment.
+\newblock In {\em Proceedings of the Intenational Workshop on Semantic Web and
+  Provenance Management}, 2009.
+
+\bibitem{provenance}
+M.~Howell and W.~Prevenier.
+\newblock {\em From Reliable Sources: An Introduction to Historical Methods}.
+\newblock Cornell University Press, 2001.
+
+\bibitem{Inel2014}
+O.~Inel, K.~Khamkham, T.~Cristea, A.~Dumitrache, A.~Rutjes, J.~Ploeg,
+  L.~Romaszko, L.~Aroyo, and R.-J. Sips.
+\newblock {\em The Semantic Web -- ISWC 2014: 13th International Semantic Web
+  Conference, Riva del Garda, Italy, October 19-23, 2014. Proceedings, Part
+  II}, chapter CrowdTruth: Machine-Human Computation Framework for Harnessing
+  Disagreement in Gathering Annotated Data, pages 486--504.
+\newblock Springer International Publishing, Cham, 2014.
+
+\bibitem{iso}
+{International Organization for Standardization}.
+\newblock {ISO/IEC 25012:2008 Software engineering -- Software product Quality
+  Requirements and Evaluation (SQuaRE) -- Data quality model}.
+\newblock Technical report, {International Organization for Standardization},
+  2008.
+
+\bibitem{Kang:2003:QTC:860435.860449}
+I.-H. Kang and G.~Kim.
+\newblock Query type classification for web document retrieval.
+\newblock In {\em Proceedings of the 26th Annual International ACM SIGIR
+  Conference on Research and Development in Informaion Retrieval}, SIGIR '03,
+  pages 64--71, New York, NY, USA, 2003. ACM.
+
+\bibitem{Lee:2002:AMI:637474.637478}
+Y.~W. Lee, D.~M. Strong, B.~K. Kahn, and R.~Y. Wang.
+\newblock Aimq: A methodology for information quality assessment.
+\newblock {\em Inf. Manage.}, 40(2):133--146, Dec. 2002.
+
+\bibitem{ifiptm2015}
+A.~Nottamkandath, J.~Oosterman, D.~Ceolin, G.~K.~D. de~Vries, and W.~Fokkink.
+\newblock Predicting quality of crowdsourced annotations using graph kernels.
+\newblock In {\em Trust Management IX}, pages 134--148. Springer International
+  Publishing.
+
+\bibitem{LDQ}
+A.~Zaveri, A.~Rula, A.~Maurino, R.~Pietrobon, J.~Lehmann, and S.~Auer.
+\newblock Quality assessment for linked data: A survey.
+\newblock {\em Semantic Web Journal}, 2015.
+
+\bibitem{zhu}
+H.~Zhu, Y.~Ma, and G.~Su.
+\newblock Collaboratively assessing information quality on the web.
+\newblock In {\em ICIS sigIQ Workshop}, 2011.
+
+\end{thebibliography}

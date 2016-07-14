@@ -1,0 +1,90 @@
+sentiment
+clf 0.0602777777778
+svr_lin -0.233241348516
+svr_poly -0.285108917838
+gnb 0.2625
+---------
+emotions
+clf 0.106111111111
+svr_lin -0.563215981807
+svr_poly -0.870505737047
+gnb 0.125555555556
+---------
+trustworthiness
+clf 0.278888888889
+svr_lin 0.385528046703
+svr_poly 0.475331023998
+gnb 0.224166666667
+---------
+entities
+clf 0.239444444444
+svr_lin -1.22494936559
+svr_poly -0.339038532538
+gnb 0.114444444444
+---------
+sentiment, emotions
+clf 0.143055555556
+svr_lin -0.313655662475
+svr_poly -0.647319097831
+gnb 0.0644444444444
+---------
+sentiment, trustworthiness
+clf 0.342222222222
+svr_lin 0.375109649449
+svr_poly 0.420968137869
+gnb 0.124166666667
+---------
+sentiment, entities
+clf 0.205277777778
+svr_lin -1.24526267877
+svr_poly -0.341576241674
+gnb 0.114444444444
+---------
+emotions, trustworthiness
+clf 0.109722222222
+svr_lin 0.267316757497
+svr_poly 0.102475225994
+gnb 0.145
+---------
+emotions, entities
+clf 0.209444444444
+svr_lin -1.44237855685
+svr_poly -0.342008291357
+gnb 0.114444444444
+---------
+trustworthiness, entities
+clf 0.235277777778
+svr_lin 0.106839989948
+svr_poly 0.272487002975
+gnb 0.114444444444
+---------
+sentiment, emotions, trustworthiness
+clf 0.253333333333
+svr_lin 0.223317199596
+svr_poly 0.170658647946
+gnb 0.133888888889
+---------
+sentiment, emotions, entities
+clf 0.210277777778
+svr_lin -1.47251456147
+svr_poly -0.344392161267
+gnb 0.114444444444
+---------
+sentiment, trustworthiness, entities
+clf 0.218611111111
+svr_lin 0.134795939414
+svr_poly 0.270570900966
+gnb 0.114444444444
+---------
+emotions, trustworthiness, entities
+clf 0.169444444444
+svr_lin 0.342171154181
+svr_poly 0.26975504085
+gnb 0.114444444444
+---------
+sentiment, emotions, trustworthiness, entities
+clf 0.148611111111
+svr_lin 0.356911283626
+svr_poly 0.267878342873
+gnb 0.114444444444
+---------

@@ -1,0 +1,103 @@
+entities
+                        0  overallQuality  sentiment  trustworthiness  \
+0                1.000000        0.380537   0.321542         0.187919   
+overallQuality   0.380537        1.000000   0.306377         0.259226   
+sentiment        0.321542        0.306377   1.000000         0.235828   
+trustworthiness  0.187919        0.259226   0.235828         1.000000   
+trustworthiness  0.267154        0.814028   0.280143         0.220574   
+
+                 trustworthiness  
+0                       0.267154  
+overallQuality          0.814028  
+sentiment               0.280143  
+trustworthiness         0.220574  
+trustworthiness         1.000000  
+sentiment
+                        0  overallQuality  sentiment  trustworthiness  \
+0                1.000000        0.194772   0.019336         0.087113   
+overallQuality   0.194772        1.000000   0.306377         0.259226   
+sentiment        0.019336        0.306377   1.000000         0.235828   
+trustworthiness  0.087113        0.259226   0.235828         1.000000   
+trustworthiness  0.017261        0.814028   0.280143         0.220574   
+
+                 trustworthiness  
+0                       0.017261  
+overallQuality          0.814028  
+sentiment               0.280143  
+trustworthiness         0.220574  
+trustworthiness         1.000000  
+trustworthiness
+                        0  overallQuality  sentiment  trustworthiness  \
+0                1.000000        0.267257   0.142151         0.677672   
+overallQuality   0.267257        1.000000   0.306377         0.259226   
+sentiment        0.142151        0.306377   1.000000         0.235828   
+trustworthiness  0.677672        0.259226   0.235828         1.000000   
+trustworthiness  0.122633        0.814028   0.280143         0.220574   
+
+                 trustworthiness  
+0                       0.122633  
+overallQuality          0.814028  
+sentiment               0.280143  
+trustworthiness         0.220574  
+trustworthiness         1.000000  
+sources
+                        0  overallQuality  sentiment  trustworthiness  \
+0                1.000000        0.259473   0.038322         0.234883   
+overallQuality   0.259473        1.000000   0.306377         0.259226   
+sentiment        0.038322        0.306377   1.000000         0.235828   
+trustworthiness  0.234883        0.259226   0.235828         1.000000   
+trustworthiness  0.315160        0.814028   0.280143         0.220574   
+
+                 trustworthiness  
+0                       0.315160  
+overallQuality          0.814028  
+sentiment               0.280143  
+trustworthiness         0.220574  
+trustworthiness         1.000000  
+titles
+                        0  overallQuality  sentiment  trustworthiness  \
+0                1.000000        0.178271  -0.186396         0.271154   
+overallQuality   0.178271        1.000000   0.306377         0.259226   
+sentiment       -0.186396        0.306377   1.000000         0.235828   
+trustworthiness  0.271154        0.259226   0.235828         1.000000   
+trustworthiness  0.182776        0.814028   0.280143         0.220574   
+
+                 trustworthiness  
+0                       0.182776  
+overallQuality          0.814028  
+sentiment               0.280143  
+trustworthiness         0.220574  
+trustworthiness         1.000000  
+all
+                        0  overallQuality  sentiment  trustworthiness  \
+0                1.000000        0.255610   0.000135         0.372627   
+overallQuality   0.255610        1.000000   0.306377         0.259226   
+sentiment        0.000135        0.306377   1.000000         0.235828   
+trustworthiness  0.372627        0.259226   0.235828         1.000000   
+trustworthiness  0.432886        0.814028   0.280143         0.220574   
+
+                 trustworthiness  
+0                       0.432886  
+overallQuality          0.814028  
+sentiment               0.280143  
+trustworthiness         0.220574  
+trustworthiness         1.000000  
+                 overallQuality  accuracy  completeness  neutrality  \
+overallQuality         1.000000  0.889662      0.694396    0.461334   
+accuracy               0.889662  1.000000      0.765922    0.568996   
+completeness           0.694396  0.765922      1.000000    0.701420   
+neutrality             0.461334  0.568996      0.701420    1.000000   
+relevance              0.634596  0.608054      0.654732    0.311987   
+trustworthiness        0.804964  0.881774      0.725162    0.618599   
+readability            0.667052  0.677106      0.578546    0.403131   
+precision              0.768356  0.814074      0.775485    0.493895   
+
+                 relevance  trustworthiness  readability  precision  
+overallQuality    0.634596         0.804964     0.667052   0.768356  
+accuracy          0.608054         0.881774     0.677106   0.814074  
+completeness      0.654732         0.725162     0.578546   0.775485  
+neutrality        0.311987         0.618599     0.403131   0.493895  
+relevance         1.000000         0.578497     0.644123   0.724098  
+trustworthiness   0.578497         1.000000     0.711564   0.790643  
+readability       0.644123         0.711564     1.000000   0.658378  
+precision         0.724098         0.790643     0.658378   1.000000  
