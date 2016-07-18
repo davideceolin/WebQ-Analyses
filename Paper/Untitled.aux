@@ -10,9 +10,9 @@
 \citation{iso}
 \citation{bharat2016method}
 \citation{Kang:2003:QTC:860435.860449}
+\citation{Amento:2000:LMQ:345508.345603}
 \@writefile{toc}{\contentsline {section}{\numberline {2}Related Work}{2}}
 \newlabel{sec:related}{{2}{2}}
-\citation{Amento:2000:LMQ:345508.345603}
 \citation{Lee:2002:AMI:637474.637478}
 \citation{zhu}
 \citation{Inel2014}
@@ -22,70 +22,70 @@
 \citation{hartig}
 \citation{LDQ}
 \citation{jdiq2015,ifiptm2015}
-\@writefile{toc}{\contentsline {section}{\numberline {3}Nichesourcing Web Document Quality Assessments}{3}}
-\newlabel{sec:webq}{{3}{3}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Nichesourcing Web Document Quality Assessments}{4}}
+\newlabel{sec:webq}{{3}{4}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Document Features and Document Quality Dimensions}{4}}
 \@writefile{toc}{\contentsline {subsubsection}{Document Features}{4}}
 \@writefile{toc}{\contentsline {subsubsection}{Document Quality Dimensions}{4}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Structure of WebQ}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Structure of WebQ}{5}}
 \@writefile{toc}{\contentsline {paragraph}{Architecture}{5}}
 \@writefile{toc}{\contentsline {paragraph}{Annotations}{5}}
 \@writefile{toc}{\contentsline {paragraph}{HTTP Proxy}{5}}
 \@writefile{toc}{\contentsline {paragraph}{Randomizer}{5}}
-\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Overview of the WebQ application. The document set is firstly enriched by using AlchemyApi, Web of Trust and manual enrichment. Then, a random selection of six documents is presented to the users for the first task: selecting the documents with the highest quality on the basis of the value of one document feature. After all the features (sentiment, entities, etc.) have been evaluated, then users are asked to assess each of the six documents assigned (task 2). In this case, documents are rendered through an HTTP proxy, to allow annotating them and visualizing the documents within the app.}}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Overview of the WebQ application. The document set is enriched by using AlchemyApi, Web of Trust, and manually. A random selection of six documents is presented to the users for the first task: identifying the highest quality documents on the basis of the value of one feature. After all the features (sentiment, etc.) have been evaluated, users assess each of the six documents assigned (task 2). Documents are rendered through an HTTP proxy, to allow annotating them within the app.}}{6}}
 \newlabel{fig:overview}{{1}{6}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Tasks Description}{6}}
-\@writefile{toc}{\contentsline {paragraph}{Task 1}{7}}
+\@writefile{toc}{\contentsline {paragraph}{Task 1}{6}}
 \@writefile{toc}{\contentsline {paragraph}{Task 2}{7}}
 \@writefile{toc}{\contentsline {section}{\numberline {4}Case Studies}{7}}
 \newlabel{sec:results}{{4}{7}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Dataset and Scenario}{7}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Case Study 1 - Journalism Students}{8}}
-\@writefile{toc}{\contentsline {subsubsection}{Experimental Setup}{8}}
-\@writefile{toc}{\contentsline {subsubsection}{Results}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Case Study 1 - Journalism Students}{7}}
+\@writefile{toc}{\contentsline {subsubsection}{Experimental Setup}{7}}
+\@writefile{toc}{\contentsline {subsubsection}{Results}{7}}
 \@writefile{toc}{\contentsline {paragraph}{Document Assessments Collected}{8}}
 \@writefile{toc}{\contentsline {paragraph}{Comparison of the two document assessments in task 2}{8}}
 \@writefile{toc}{\contentsline {paragraph}{Document Assessments Predictability}{8}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Results of 10-fold cross-validation using Support Vector Classification with different number of features, and predicting either 5 classes (as in the 1-5 Likert scale used in WebQ) or 2 classes (i.e., high- and low-quality documents). We calculated the performance for all possible permutations of the four classes of features. For each cardinality of such permutation (1,2,3,4) we show the best performing combination.}}{8}}
+\newlabel{tab:predj}{{1}{8}}
 \@writefile{toc}{\contentsline {paragraph}{Correlation between quality dimensions and overall quality}{8}}
-\@writefile{toc}{\contentsline {paragraph}{Correlation between document selection (task 1) and document assessments (task2)}{8}}
-\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Results of 10-fold cross-validation using Support Vector Classification with different number of features, and predicting either 5 classes (as in the 1-5 Likert scale used in WebQ) or 2 classes (i.e., high- and low-quality documents). We calculated the performance for all possible permutations of the four classes of features. For each cardinality of such permutation (1,2,3,4) we show the best performing combination.}}{9}}
-\newlabel{tab:predj}{{1}{9}}
-\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Correlation between each quality dimension and the overall quality score attributed to the documents.}}{9}}
-\newlabel{tab:corrj}{{2}{9}}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Correlation between each quality dimension and the overall quality score attributed to the documents.}}{8}}
+\newlabel{tab:corrj}{{2}{8}}
+\@writefile{toc}{\contentsline {paragraph}{Correlation between document selection (task 1) and document assessments (task2)}{9}}
 \newlabel{eq:smoothing}{{1}{9}}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Correlation (Spearman) between the probability of documents to be selected in task 1 and their overall quality assessment from task 2.}}{9}}
+\newlabel{tab:t1t2corrj}{{3}{9}}
 \@writefile{toc}{\contentsline {paragraph}{User Evaluation}{9}}
-\@writefile{toc}{\contentsline {paragraph}{Quality Definition and Qualitative Analysis of Annotations and Remarks}{9}}
-\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Correlation between the probability of documents to be selected in task 1 and their overall quality assessment from task 2.}}{10}}
-\newlabel{tab:t1t2corrj}{{3}{10}}
 \@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Results of the user evaluation questionnaire.}}{10}}
 \newlabel{tab:questj}{{4}{10}}
+\@writefile{toc}{\contentsline {paragraph}{Quality Definition and Qualitative Analysis of Annotations and Remarks}{10}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Case Study 2 - Media Scholars}{10}}
 \@writefile{toc}{\contentsline {subsubsection}{Experimental Setup}{10}}
 \@writefile{toc}{\contentsline {subsubsection}{Results}{10}}
 \@writefile{toc}{\contentsline {paragraph}{Document Assessments Collected}{10}}
 \@writefile{toc}{\contentsline {paragraph}{Comparison of the two document assessments in task 2}{10}}
-\@writefile{toc}{\contentsline {paragraph}{Document Assessments Predictability}{11}}
-\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces Accuracy of the prediction of the overall quality assessments on the second case study. We compute all features permutations and we show the best performing combination per feature set cardinality (1,2,3,4).}}{11}}
-\newlabel{tab:predm}{{5}{11}}
+\@writefile{toc}{\contentsline {paragraph}{Document Assessments Predictability}{10}}
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces Accuracy of the prediction of the overall quality assessments case study 2. We show the best performing combination of features per set cardinality (1,2,3,4).}}{10}}
+\newlabel{tab:predm}{{5}{10}}
 \@writefile{toc}{\contentsline {paragraph}{Correlation between quality dimensions and overall quality}{11}}
-\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces Correlation between each quality dimension and the overall quality score attributed to the documents.}}{11}}
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces Correlation between each quality dimension and the overall quality score.}}{11}}
 \newlabel{tab:corrm}{{6}{11}}
 \@writefile{toc}{\contentsline {paragraph}{Correlation between document selection (task 1) and document assessments (task2)}{11}}
+\@writefile{lot}{\contentsline {table}{\numberline {7}{\ignorespaces Correlation (Spearman) between the probability of documents to be selected in task 1 and their overall quality assessment from task 2.}}{11}}
+\newlabel{tab:t1t2corrm}{{7}{11}}
 \@writefile{toc}{\contentsline {paragraph}{User Evaluation}{11}}
-\@writefile{lot}{\contentsline {table}{\numberline {7}{\ignorespaces Correlation between the probability of documents to be selected in task 1 and their overall quality assessment from task 2.}}{12}}
-\newlabel{tab:t1t2corrm}{{7}{12}}
 \@writefile{lot}{\contentsline {table}{\numberline {8}{\ignorespaces Results of the user evaluation questionnaire.}}{12}}
 \newlabel{tab:questm}{{8}{12}}
 \@writefile{toc}{\contentsline {paragraph}{Quality Definition and Qualitative Analysis of Annotations and Remarks}{12}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Comparison between Case Study 1 and 2}{12}}
-\@writefile{toc}{\contentsline {section}{\numberline {5}Discussion}{13}}
-\newlabel{sec:discussion}{{5}{13}}
-\@writefile{toc}{\contentsline {paragraph}{{\bf  User assessments are stable and coherent.}}{13}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Discussion}{12}}
+\newlabel{sec:discussion}{{5}{12}}
+\@writefile{toc}{\contentsline {paragraph}{{\bf  User assessments are stable and coherent.}}{12}}
 \@writefile{toc}{\contentsline {paragraph}{{\bf  User assessments are highly related to the task at hand.}}{13}}
 \@writefile{toc}{\contentsline {paragraph}{{\bf  Features in isolation are hardly meaningful (but the user experience plays a role here).}}{13}}
+\@writefile{toc}{\contentsline {paragraph}{{\bf  The application setup should take (also) the user experience into consideration}}{13}}
 \bibstyle{abbrv}
 \bibdata{biblio}
-\@writefile{toc}{\contentsline {paragraph}{{\bf  The application setup should take (also) the user experience into consideration}}{14}}
 \@writefile{toc}{\contentsline {section}{\numberline {6}Conclusion}{14}}
 \newlabel{sec:conclusion}{{6}{14}}
 \@writefile{toc}{\contentsline {subsubsection}{Acknowledgements}{14}}

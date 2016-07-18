@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  14 JUL 2016 18:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  18 JUL 2016 21:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -590,18 +590,18 @@ LaTeX Info: Redefining \addtolength on input line 81.
 ) (./Untitled.aux)
 \openout1 = `Untitled.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
@@ -666,37 +666,50 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 23.
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 30.
 
-LaTeX Font Info:    No file OMScmtt.fd. on input line 23.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 30.
 
 
 LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbraceleft' on input line 23.
+(Font)              for symbol `textbraceleft' on input line 30.
 
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3] [4] <overview.pdf, id=27, 546.04pt x 615.29875pt>
+Underfull \hbox (badness 4429) in paragraph at lines 68--68
+ [][]\OT1/cmr/m/n/9 The dataset of en-riched doc-u-ments is avail-able at $\OT1
+/cmtt/m/n/9 https : / / github . com /
+ []
+
+[2]
+Underfull \vbox (badness 5105) has occurred while \output is active []
+
+ [3]
+Overfull \hbox (3.09921pt too wide) in paragraph at lines 170--183
+[]\OT1/cmr/m/n/10 whether as-sess-ments are co-her-ent enough over mul-ti-ple d
+oc-u-ments and among
+ []
+
+[4]
+Overfull \hbox (5.49669pt too wide) in paragraph at lines 273--274
+[]\OT1/cmr/m/n/10 in im-age, CSS and link ad-dresses,
+ []
+
+[5] <overview.pdf, id=34, 973.6375pt x 348.30125pt>
 File: overview.pdf Graphic file (type pdf)
  <use overview.pdf>
-Package pdftex.def Info: overview.pdf used on input line 115.
-(pdftex.def)             Requested size: 242.98541pt x 273.80238pt.
-
-[5] [6 <./overview.pdf>] [7]
-Overfull \hbox (6.81853pt too wide) in paragraph at lines 204--205
+Package pdftex.def Info: overview.pdf used on input line 284.
+(pdftex.def)             Requested size: 329.7663pt x 117.9691pt.
+ [6 <./overview.pdf>] [7]
+Overfull \hbox (6.81853pt too wide) in paragraph at lines 423--424
  \OT1/cmr/m/it/10 Cor-re-la-tion be-tween doc-u-ment se-lec-tion (task 1) and d
 oc-u-ment as-sess-ments (task2)[]
  []
 
-[8]
-Overfull \hbox (3.3168pt too wide) in paragraph at lines 235--244
- [][] 
- []
-
-[9] [10]
-Overfull \hbox (6.81853pt too wide) in paragraph at lines 299--301
+[8] [9] [10]
+Overfull \hbox (6.81853pt too wide) in paragraph at lines 571--573
  \OT1/cmr/m/it/10 Cor-re-la-tion be-tween doc-u-ment se-lec-tion (task 1) and d
 oc-u-ment as-sess-ments (task2)[]
  []
@@ -709,11 +722,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  13694 strings out of 493014
  267001 string characters out of 6133351
- 336737 words of memory out of 5000000
+ 332736 words of memory out of 5000000
  16943 multiletter control sequences out of 15000+600000
  10100 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,11n,56p,1183b,292s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,9n,56p,1650b,314s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
@@ -728,7 +741,7 @@ ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive
 /2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
 2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/20
 16/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on Untitled.pdf (15 pages, 252925 bytes).
+Output written on Untitled.pdf (15 pages, 257508 bytes).
 PDF statistics:
  128 PDF objects out of 1000 (max. 8388607)
  92 compressed objects within 1 object stream
